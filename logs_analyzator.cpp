@@ -2,13 +2,13 @@
 Rozwiązanie zadania z zajęć #24 - Analizator logów
 Link do zajęć:
 Link do zadania:
-v. 1.1
+v. 1.2
 
 Wykorzystane funkcje:
 -- mapy
 -- switch / case
 
-druga wersja dla testu zgłoszenia do GitHub (w przykładzie prowadzącego dodanie mapy, ktora jeszce nie działa w 100%, ale już jest jakaś nowość)
+Trzecia wersja dla testu zgłoszenia do GitHub (w przykładzie prowadzącego poprawnie działające zadanie)
 
 */
 
