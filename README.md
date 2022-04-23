@@ -6,3 +6,4 @@ Mostly C++ and Java Script.
 Source: https://oki.org.pl
 
 ###### Program # 23 - Logs Analyzer - map
+* own sort function in C++
